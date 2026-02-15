@@ -27,3 +27,4 @@ class MacOSRunnerSpec < T::Struct
     }
   end
 end
+
